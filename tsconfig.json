@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "lib": [
+      "es6"
+    ],
+    "mapRoot": "./src",
+    "module": "es6",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "sourceMap": true,
+    "target": "es5",
+    "types": [
+      "jasmine"
+    ],
+    "typeRoots": [
+      "../node_modules/@types"
+    ]
+  }
+}
