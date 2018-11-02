@@ -2,7 +2,8 @@
   "name": "bi-directional-map",
   "version": "1.0.0",
   "description": "Simple bi directional map implementation using 2 es6 maps",
-  "main": "dist/index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "start": "tsc -w",
